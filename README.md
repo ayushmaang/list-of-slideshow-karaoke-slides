@@ -16,6 +16,7 @@ However, finding good slides is difficult. This repository should hopefully solv
 | [Soylent Blockchains](https://www.slideshare.net/SteveWaldman/soylent-blockchains) | Random | [@kuboschek](https://github.com/kuboschek) |
 | [Who and What](https://www.slideshare.net/georgemelendez/questions-with-who-72442769?qid=c6e696e1-62f9-4563-be58-775a17641e0b) | Random | [@bih](https://github.com/bih) |
 | [Brexit and beyond](https://www.slideshare.net/abusch10/brexit-and-beyond-how-uk-can-upset-the-global-economy) | Politics | [@pandelisz](https://github.com/pandelisz) |
+| https://docs.google.com/presentation/d/1hh1flydiqKg7a8dhBk2tb37zg7UoG6wEF0MVb4o0la8/edit#slide=id.p | Amazing | ayushmaang
 
 
 ## Contributing
